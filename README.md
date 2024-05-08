@@ -4,8 +4,11 @@
 
 Nationality: Kenya
 Personal Interests: Coding, reading, writing fictional novels, and playing table tennis occasionally.
+
 Current Location: 📍 Mombasa, Kenya
+
 Fun Fact: I have a passion for writing and a deep appreciation for anime.
+
 Feel free to connect with me at masaakavulanya@gmail.com for potential collaborations or just to chat about technology and creativity!
 
 <!---
