@@ -3,6 +3,7 @@
 🌐 A bit about me:
 
 Nationality: Kenya
+
 Personal Interests: Coding, reading, writing fictional novels, and playing table tennis occasionally.
 
 Current Location: 📍 Mombasa, Kenya
