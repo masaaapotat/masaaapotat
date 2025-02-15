@@ -1,5 +1,4 @@
-💻 I'm currently a student at Moringa School, enthusiastically diving into the world of programming. ⚡️
-
+💻 I’m a Moringa School graduate and a software developer passionate about building innovative solutions and continuously learning new technologies. ⚡️
 🌐 A bit about me:
 
 Nationality: Kenya
